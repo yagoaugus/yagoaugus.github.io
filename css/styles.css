@@ -202,7 +202,7 @@
     #bio-container {
         min-height: auto;
         border-right: none;
-        border: 5px solid var(--bio-border-color);
+        border-bottom: 5px solid var(--bio-border-color);
     }
 
     #bio-container h2 {
